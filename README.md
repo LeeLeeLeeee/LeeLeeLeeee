@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm YoungHyun Lee</h1>
-<h3 align="center">신기술에 관심이 많으며 재사용 가능한 코드를 추구합니다</h3>
+<h3 align="center">클린 코드를 추구합니다</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeleeleeee&label=Profile%20views&color=0e75b6&style=flat" alt="leeleeleeee" /> </p>
 
