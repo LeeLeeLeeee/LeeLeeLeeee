@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Letten**
 
-- 📫 How to reach me **ijj179122@gmail.com**
+- 📫 How to reach me **ijj179212@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
