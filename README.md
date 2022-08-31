@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeleeleeee&label=Profile%20views&color=0e75b6&style=flat" alt="leeleeleeee" /> </p>
 
-- 🔭 I’m currently working on **NextJS**
+- 🔭 I’m currently working on **Letten**
 
-- 📫 How to reach me **ijj1792@naver.com**
+- 📫 How to reach me **ijj179122@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
