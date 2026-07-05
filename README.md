@@ -67,12 +67,12 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>personal-agent-gateway</h3>
-      <p>Private local-first gateway experiments around Codex and remote browser access.</p>
+      <h3><a href="https://github.com/LeeLeeLeeee/personal-agent-gateway">personal-agent-gateway</a></h3>
+      <p>Local-first gateway experiments around Codex and remote browser access.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/local--first%20agent-38BDF8?style=flat-square" alt="local-first agent" />
-        <img src="https://img.shields.io/badge/private-0F172A?style=flat-square" alt="private" />
+        <img src="https://img.shields.io/badge/public-22C55E?style=flat-square" alt="public" />
       </p>
     </td>
     <td width="50%">
