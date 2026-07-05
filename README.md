@@ -62,10 +62,19 @@
 - Developer productivity tools, document workflows, and automation
 - Local-first AI agent gateways and personal execution environments
 
-## Selected Work
+## Recent Work
 
 <table>
   <tr>
+    <td width="50%">
+      <h3>personal-agent-gateway</h3>
+      <p>Private local-first gateway experiments around Codex and remote browser access.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/local--first%20agent-38BDF8?style=flat-square" alt="local-first agent" />
+        <img src="https://img.shields.io/badge/private-0F172A?style=flat-square" alt="private" />
+      </p>
+    </td>
     <td width="50%">
       <h3><a href="https://github.com/LeeLeeLeeee/gdoc">gdoc</a></h3>
       <p>Document workflow experiment.</p>
@@ -74,6 +83,8 @@
         <img src="https://img.shields.io/badge/document%20workflow-0EA5E9?style=flat-square" alt="document workflow" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://github.com/LeeLeeLeeee/yh-portfolio">yh-portfolio</a></h3>
       <p>Personal portfolio project.</p>
@@ -82,8 +93,6 @@
         <img src="https://img.shields.io/badge/portfolio-7C3AED?style=flat-square" alt="portfolio" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/LeeLeeLeeee/fe-log-let">fe-log-let</a></h3>
       <p>Frontend app for the Log Let project.</p>
@@ -92,6 +101,8 @@
         <img src="https://img.shields.io/badge/frontend-22C55E?style=flat-square" alt="frontend" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://github.com/LeeLeeLeeee/be-log-let">be-log-let</a></h3>
       <p>Backend app for the Log Let project.</p>
@@ -100,22 +111,12 @@
         <img src="https://img.shields.io/badge/backend-0F172A?style=flat-square" alt="backend" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/LeeLeeLeeee/Object-doc">Object-doc</a></h3>
       <p>Service for structuring object-driven language concepts.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/language%20structure-F97316?style=flat-square" alt="language structure" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Local agent gateway</h3>
-      <p>Private local-first gateway experiments around Codex and remote browser access.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/local--first%20agent-38BDF8?style=flat-square" alt="local-first agent" />
       </p>
     </td>
   </tr>
