@@ -1,38 +1,31 @@
-<h3 align="center">I'm clean code</h3>
+# LeeLeeLeeee
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leeleeleeee&label=Profile%20views&color=0e75b6&style=flat" alt="leeleeleeee" /> </p>
+I build TypeScript-heavy web products, developer tools, and local-first agent
+workflows.
 
-- 🔭 I’m currently working on **Object-doc**
+## Focus
 
-- 📫 How to reach me **ijj179212@gmail.com**
+- Frontend architecture with React, Svelte, TypeScript, and design systems
+- Backend and infrastructure work around Node.js, Go, Docker, and databases
+- Developer productivity tools, document workflows, and automation
+- Local-first AI agent gateways and personal execution environments
 
+## Selected Work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a> 
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-</a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-</a> 
-</a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-</a> 
-</a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-</a> 
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
-</a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a> 
-</p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [gdoc](https://github.com/LeeLeeLeeee/gdoc) | Document workflow experiment | TypeScript |
+| [yh-portfolio](https://github.com/LeeLeeLeeee/yh-portfolio) | Personal portfolio | MDX |
+| [fe-log-let](https://github.com/LeeLeeLeeee/fe-log-let) | Frontend app for the Log Let project | TypeScript |
+| [be-log-let](https://github.com/LeeLeeLeeee/be-log-let) | Backend app for the Log Let project | TypeScript |
+| [Object-doc](https://github.com/LeeLeeLeeee/Object-doc) | Service for structuring object-driven language concepts | TypeScript |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeleeleeee&show_icons=true&locale=en&layout=compact" alt="leeleeleeee" /></p>
+## Tools I Use Often
+
+TypeScript, React, Svelte, Tailwind CSS, Node.js, Go, Docker, MySQL, MSSQL,
+Elasticsearch, Jest
+
+## Contact
+
+- Email: [ijj179212@gmail.com](mailto:ijj179212@gmail.com)
+- GitHub: [@LeeLeeLeeee](https://github.com/LeeLeeLeeee)
